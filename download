@@ -1,0 +1,14 @@
+# Arquivos compilados
+*.exe
+*.o
+*.obj
+
+# Arquivos de projeto/build do Dev-C++
+*.layout
+*.win
+*.dev
+
+# Arquivos temporários
+*.tmp
+*.bak
+*~
